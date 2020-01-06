@@ -311,7 +311,7 @@ FOX家庭电影,p2p://sdgdklwos.finetv.tv:9906/59fd229f000615aa029bb9ed79916213#
 FOX动作电影,mitv://198.255.74.87:9906/5dc08f0d0001bd0201b7bcb97d30ebcb
 HBO优质电影,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36#http://cloud-play.hhalloy.com/live/13e83b20bc716e68221da438d761d352.flv
 HBO强档电影,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de#p2p://sdgdklwos.finetv.tv:9906/59fd22e50004a1f8029ccaff41480126#http://cloud-play.hhalloy.com/live/c971b59822c6a91fab4bad8ca9b45f6b.flv
-HBO原创电影mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e#p2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5#,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO原创电影,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e#p2p://sdgdklwos.finetv.tv:9906/59fd14fc0005019f026674e730ed03b5#,http://cloud-play.hhalloy.com/live/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
 HBO家庭电影,p2p://sdgdklwos.finetv.tv:9906/59fd152900015243026723c45811069b#http://cloud-play.hhalloy.com/live/7e7ed5cc99029fd0d27e25009d7abdac.flv
 AMC美国经典,p2p://sdgdklwos.finetv.tv:9906/59fd30960001991702d2459c74bd52f1
 AXN 新力影业,mitv://198.255.74.87:9906/5dc08efe000c72ce01b784df27914703#http://pili-live-hdl.qhmywl.com/dsdtv/c762110b3eef8bcccce5863643dd66aa.flv
