@@ -43,11 +43,11 @@ CCTV-4 欧洲,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.
 贵州卫视,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
 广西卫视,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
 海南卫视,http://140.249.30.112/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
-吉林卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=011&amp;Provider_id=&amp;Pcontent_id=index.m3u8
-陕西卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=049&amp;Provider_id=&amp;Pcontent_id=index.m3u8
-云南卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=013&amp;Provider_id=&amp;Pcontent_id=index.m3u8
-甘肃卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=012&amp;Provider_id=&amp;Pcontent_id=index.m3u8
-新疆卫视 HD,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=058&amp;Provider_id=&amp;Pcontent_id=index.m3u8
+吉林卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=011&amp;Provider_id=&amp;Pcontent_id=index.m3u8
+陕西卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=049&amp;Provider_id=&amp;Pcontent_id=index.m3u8
+云南卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=013&amp;Provider_id=&amp;Pcontent_id=index.m3u8
+甘肃卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=012&amp;Provider_id=&amp;Pcontent_id=index.m3u8
+新疆卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=058&amp;Provider_id=&amp;Pcontent_id=index.m3u8
 康巴卫视,http://118.123.60.8:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=017&amp;Provider_id=&amp;Pcontent_id=index.m3u8
 海峡卫视,http://118.123.60.12:8114/LIVES/Fsv_otype=1&amp;FvSeid=&amp;Fsv_filetype=mull&amp;Fsv_chan_hls_se_idx=024&amp;Provider_id=&amp;Pcontent_id=index.m3u8
 山西卫视,http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
@@ -237,7 +237,7 @@ CCTV大富,vjms://153.99.180.70:8500:5021/live/cid=170
 HBOHD,vjms://153.99.180.70:8500:5021/live/cid=261
 HBO原创,vjms://153.99.180.70:8500:5021/live/cid=436
 HBO溫馨,vjms://153.99.180.70:8500:5021/live/cid=181
-TVBS HD,vjms://153.99.180.70:8500:5021/live/cid=349
+TVBS,vjms://153.99.180.70:8500:5021/live/cid=349
 TVBS新聞臺,vjms://153.99.180.70:8500:5021/live/cid=348
 TVBS歡樂臺,vjms://153.99.180.70:8500:5021/live/cid=438
 博斯高球,vjms://153.99.180.70:8500:5021/live/cid=265
