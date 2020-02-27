@@ -65,7 +65,7 @@ TVBS新闻,P2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
 三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
 三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
-壹新闻,P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
+壹新闻,P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts#p2p://fccsovh.pvbox.live:18912/5bdbf3a3000abb1bd2173d393f733744#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a#mitv://198.255.74.87:9906/5dc08f23000639e201b813cf63badeb6
 非凡新闻,P2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
 年代新闻,P2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 东森新闻,P2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
@@ -155,8 +155,7 @@ CBN每日影院,http://42.48.60.248:8082/live/gqts-800k.m3u8
 FOX,P2p://lino.homeunix.com:6007/59fd14cf000321f60265c4a24ca93407.ts
 FOX CRIME,P2p://lino.homeunix.com:6007/59fd14ae0007a794026544e32f606291.ts
 tvN,P2p://lino.homeunix.com:6007/59fd248e000a1aa502a3488f618b6de7.ts
-TVB8,P2p://lino.homeunix.com:6007/5a32174e0001f481d4b0ec8f67f06c2b.ts
-TVB 星河,http://pull-flv-l1.ixigua.com:80/game/ch0040.flv
+TVB 星河(国语),http://pull-flv-l1.ixigua.com:80/game/ch0040.flv
 TVB 星河,P2p://lino.homeunix.com:6007/59fd3f91000c54e4030cccd33c6f6c3c.ts
 TVB 明珠,P2p://lino.homeunix.com:6007/59fd0d0a0009323a02476cb020fe16f9.ts
 TVB 明珠,P2p://lino.homeunix.com:6007/5ad32b590006aefa49ec511272c5262e.ts
