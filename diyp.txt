@@ -60,7 +60,10 @@ CCTV风云足球,P2p://lino.homeunix.com:6007/59fd0bbb000185ff02424e24243823ca.t
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 
 港台新闻,#genre#
+ELTA综合,P2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 TVBS新闻,P2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
+非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
 三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
 壹新闻,P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts
 非凡新闻,P2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
