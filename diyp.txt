@@ -60,13 +60,11 @@ CCTV风云足球,P2p://lino.homeunix.com:6007/59fd0bbb000185ff02424e24243823ca.t
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 
 港台新闻,#genre#
-ELTA综合,P2p://lino.homeunix.com:6007/59fd26ca00086abe02ac0272796720c5.ts
 TVBS新闻,P2p://lino.homeunix.com:6007/59fd096d0003aa9702394e013b6206a2.ts
 非凡新闻,p2p://190.2.146.92:18912/5c7249cb000744bc1d57c8bd53377361.ts
+非凡新闻,P2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
 三立新闻,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
 三立新闻,P2p://lino.homeunix.com:6007/59fd08fd000707490237995b3c9f2775.ts
-壹新闻,P2p://lino.homeunix.com:6007/59fd08ad000509c00236604f613b08e7.ts#p2p://fccsovh.pvbox.live:18912/5bdbf3a3000abb1bd2173d393f733744#p8p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a#mitv://198.255.74.87:9906/5dc08f23000639e201b813cf63badeb6
-非凡新闻,P2p://lino.homeunix.com:6007/59fd05f30007004f022bba4b77671d93.ts
 年代新闻,P2p://lino.homeunix.com:6007/5a56230e0004af51617ff5935a3e292e.ts
 东森新闻,P2p://lino.homeunix.com:6007/5a1427ee0009fb195fc1064a3af652d1.ts
 东森新闻,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
@@ -172,7 +170,6 @@ astro华丽,p2p://fccsovh.pvbox.live:18912/5b3c4fa10001acfa627f067273f636b0
 astro全佳,P2p://lino.homeunix.com:6007/5b2c7b9d000cafb7064ee62073b5429d.ts
 astro欢喜,P2p://lino.homeunix.com:6007/5b2c86ff000b8df6067b5ca240b93635.ts
 astro双星,P2p://lino.homeunix.com:6007/5b2f26bb000f257c10bb53ec280e5f3f.ts
-astro小太阳,P2p://lino.homeunix.com:6007/5b2c879d000424bd067dc3ee45d96446.ts
 壹综合,P2p://lino.homeunix.com:6007/59fd06f600087a21022fae61787f061c.ts
 中天综合,P2p://lino.homeunix.com:6007/59fd04bc00059d610226fb164a845fa5.ts
 中天娱乐,P2p://lino.homeunix.com:6007/59fd049e0006fb6e0226863427c16955.ts
