@@ -119,7 +119,7 @@ Z频道,p6p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts 
 NatlGeo,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 Discovery,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-Star Movie,http://103.145.38.45/dl/gzyx.php?id=wsgjdy
+Star Movies,http://103.145.38.45/dl/gzyx.php?id=wsgjdy
 CHANNEL[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 MTV,http://103.145.38.45/dl/gzyx.php?id=mtv
 
