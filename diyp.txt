@@ -119,38 +119,28 @@ Z频道,p8p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts 
 NatlGeo,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 Discovery,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 Star Sports,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-Star Movie,http://103.145.38.45/dl/gzyx.php?id=wsgjdy
+Star Movies,http://103.145.38.45/dl/gzyx.php?id=wsgjdy
 CHANNEL[V],rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 MTV,http://103.145.38.45/dl/gzyx.php?id=mtv
 
 网络轮播,#genre#
 BesTV Ⅰ,http://47.240.60.73/migu.php?id=625759558
 BesTV Ⅱ,http://47.240.60.73/migu.php?id=621640582
+BesTV Ⅲ,http://47.240.60.73/migu.php?id=625681368
+BesTV Ⅳ,http://47.240.60.73/migu.php?id=625525181
 新片放映厅,http://47.240.60.73/migu.php?id=619495952
 科幻电影,http://47.240.60.73/migu.php?id=625204865
 喜剧联盟,http://47.240.60.73/migu.php?id=637444830
 火爆劲片,http://47.240.60.73/migu.php?id=624999147
-国际剧场,http://47.240.60.73/migu.php?id=625542365
-僵尸剧场,http://47.240.60.73/migu.php?id=627033504
-虎牙科幻1,https://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-虎牙科幻2,http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
-虎牙美剧1,http://aldirect.hls.huya.com/huyalive/30765679-2554414651-10971127386468253696-3048959632-10057-A-0-1.m3u8
-虎牙美剧2,http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-虎牙漫威,https://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-虎牙灾难,https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-虎牙激情,https://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-虎牙怪物,http://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-虎牙丧尸,http://aldirect.hls.huya.com:80/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-虎牙恐怖,https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-虎牙好莱坞,http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
-虎牙韩日,http://aldirect.hls.huya.com:80/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1_2000.m3u8
-虎牙中国,https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-虎牙功夫,https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-虎牙警匪,https://js.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1_1200.m3u8
-虎牙古装,https://aldirect.hls.huya.com/huyalive/29359996-2689615538-11551810774523445248-2847687642-10057-A-1525496014-1_1200.m3u8
-虎牙写实,http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-虎牙灵异,https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
-虎牙港剧,http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3048959596-10057-A-0-1.m3u8
+国际影院,http://47.240.60.73/migu.php?id=625542365
+惊悚影院,http://47.240.60.73/migu.php?id=627033504
+悬疑剧场,http://47.240.60.73/migu.php?id=625574493
+小说剧场,http://47.240.60.73/migu.php?id=627198751
+言情剧场,http://47.240.60.73/migu.php?id=617432318
+欢乐剧场,http://47.240.60.73/migu.php?id=625681367
+古装剧场,http://47.240.60.73/migu.php?id=627198822
+假期剧场,http://47.240.60.73/migu.php?id=627198692
+经典剧场,http://47.240.60.73/migu.php?id=625542369
 QIY电影大片,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_dianyingjingxuan_1080p_t10/c15_lb_dianyingjingxuan_1080p_t10.m3u8
 QIY贺岁影院,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
 QIY豆瓣高分,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
@@ -193,13 +183,6 @@ QIY科学探索,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_kexuetansuo_1080
 QIY旅游攻略,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_lvyounew_1080p_t10/c15_lb_lvyounew_1080p_t10.m3u8
 QIY军事观察,http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_junshinew_1080p_t10/c16_lb_junshinew_1080p_t10.m3u8
 QIY宠物台,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_chongwutai_1080p_t10/c15_lb_chongwutai_1080p_t10.m3u8
-QIY猫和老鼠,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_maohelaoshu_1080p_t10/c15_lb_maohelaoshu_1080p_t10.m3u8
-QIY哆啦A梦,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_duolaameng_1080p_t10/c15_lb_duolaameng_1080p_t10.m3u8
-QIY蜡笔小新,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_labixiaoxin_1080p_t10/c15_lb_labixiaoxin_1080p_t10.m3u8
-QIY圣斗士星矢,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_shengdoushixingshi_1080p_t10/c15_lb_shengdoushixingshi_1080p_t10.m3u8
-QIY名侦探柯南,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
-QIY七龙珠,http://baiducdnct.inter.iqiyi.com/tslive/c19_lb_longzhu_720p_t10/c19_lb_longzhu_720p_t10.m3u8
-QIY喜羊羊,http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8
 
 地方频道,#genre#
 武汉综合,http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000215.m3u8
