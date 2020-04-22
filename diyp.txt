@@ -73,20 +73,10 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist_w891345404.m3u8
 
 港台综合,#genre#
-凤凰卫视,http://liveali.ifeng.com/live/FHZW.flv
 凤凰卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰资讯,http://liveali.ifeng.com/live/FHZX.flv
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-天映经典,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
-龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
-龙华影剧,p2p://fccsovh.pvbox.live:18912/5b1408f2000aaf8c17d08f5c001549e8
-采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-中视经典,p2p://fccsovh.pvbox.live:18912/5b140a14000a368c17d4fc0d0e2537ba
-民视台湾,p2p://fccsovh.pvbox.live:18912/5b14095f00097ec617d238d6575b7b8c
-公視3,p2p://fccsovh.pvbox.live:18912/5b14094a0002d1d117d1e518204a1cf0
-迪斯尼,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ec17d479cd524c4642
 NHK 华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -290,18 +280,6 @@ GAORA SPORTS,vjms://153.99.180.70:8500:5021/live/cid=413
 EX-Sports-TV,vjms://153.99.180.70:8500:5021/live/cid=414
 
 私人收藏_*#02#,#genre#
-HAPPY幸福,p2p://fccsovh.pvbox.live:18912/5c18f8fe000ca53ec074293d6d01287b
-惊艳HD,p2p://fccsovh.pvbox.live:18912/5c18f9100006a3e2c0746e0708a009f7
-彩虹电影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76
-彩虹e,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890
-彩虹k,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705
-HOT星颜,p2p://fccsovh.pvbox.live:18912/5c18f8e80001d046c073d07f7ee742c9
-松视1,p2p://fccsovh.pvbox.live:18912/5c18f8fb00064883c0741bdf109f114a
-松视2,p2p://fccsovh.pvbox.live:18912/5c18f8f7000d865dc0740e1426765941
-松视3,p2p://fccsovh.pvbox.live:18912/5c18f9020004cea3c07436da29307240
-香蕉,p2p://fccsovh.pvbox.live:18912/5c18f9090004f8a0c07452412e4e369f
-潘多拉粉红,p2p://fccsovh.pvbox.live:18912/5c18f90c000e8229c074606a15084f35
-潘多拉完美,p2p://fccsovh.pvbox.live:18912/5c18f905000c08fbc07444661e2e685e
 色戒,https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 苹果,https://qqc1107.phpdaniu.com/japan/20190821/xKAFD0kH/800kb/hls/index.m3u8
 丑闻,https://qqc1107.phpdaniu.com/japan/20190821/7vpRqM9k/index.m3u8
