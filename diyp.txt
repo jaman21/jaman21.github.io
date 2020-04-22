@@ -75,10 +75,9 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 港台综合,#genre#
 凤凰卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#p8p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 NHK 华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 NatlGeo,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
