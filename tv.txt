@@ -73,59 +73,86 @@ CHC动作电影,rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist_w891345404.m3u8
 
 港台综合,#genre#
-壹新闻,p6p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts#p6p://0198.02686.cc:16871/5d1a69b6000b8d0a11bde706a99c146a.ts
-年代新闻,tvbus://3NVN5WuzZZYTo9SY6e5FwiunwasivY5tYQQhxXtvni3WfebGEQ
-东森新闻,p6p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts#p6p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
-东森财经新闻,p6p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
-寰宇新闻,p6p://0198.02686.cc:16871/5d1a69ba0007750411bdf59a5aa4b66d.ts
-寰宇新闻Ⅱ,tvbus://3sUW81UMFLkegQrzbuihwofCUTvhAu4fN7iKnC9u8FJijcmjkh
-寰宇财经,p6p://0198.02686.cc:16871/5d1a69bb00034ddd11bdf8710f58e2f3.ts
-民视新闻,p6p://0198.02686.cc:16871/5d1a69c50008f95211be20f5ac2747e5.ts
-非凡新闻,p6p://0198.02686.cc:16871/5d1a69d500091c6b11be5f7e1276fa82.ts
-TVB新闻,p6p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
-港电 31,p6p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-壹综合,p6p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts#p6p://0198.02686.cc:16871/5d1a69b70007631411bde9dd9eaae997.ts
-JET综合,p6p://0198.02686.cc:16871/5d1a69a7000abe1711bdac390219d138.ts
-三立综合,p6p://0198.02686.cc:16871/5d1a69fa0007d2f011beefb295d4d371.ts
-三立台湾,p6p://0198.02686.cc:16871/5d1a69ae00025bef11bdc56ba098b443.ts
-民视台湾,p2p://fccsovh.pvbox.live:18912/5b14095f00097ec617d238d6575b7b8c
-凤凰卫视,p6p://0198.02686.cc:16871/5d1a69d80007b1db11be6ad9e2339543.ts#http://liveali.ifeng.com/live/FHZW.flv#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰资讯,p6p://0198.02686.cc:16871/5d1a69d90003dbfb11be6dc698fb9973.ts#http://liveali.ifeng.com/live/FHZX.flv#rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738#p6p://0198.02686.cc:16871/5d1a69d6000505cd11be625a06b24e50.ts
-凤凰电影,https://116.77.72.195/streams/d/fhdy/playlist.m3u8#rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-FX福克斯电影,p6p://0198.02686.cc:16871/5d1a69a50009208511bda3ff8356848f.ts
-卫视电影,p6p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
-东森电影,p6p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
-靖天电影,p6p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
-三立戏剧,p6p://0198.02686.cc:16871/5d1a69f90000ad2611bee9f55d87748f.ts
-EYETV戏剧,p6p://0198.02686.cc:16871/5d1a69a2000ca28211bd992d29a29542.ts
-华艺影剧,p6p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
-龙华影剧,p2p://fccsovh.pvbox.live:18912/5b1408f2000aaf8c17d08f5c001549e8
-采昌影剧,p2p://fccsovh.pvbox.live:18912/5b1409db0009049a17d41d161677386d
-天映经典,p2p://fccsovh.pvbox.live:18912/5b3c4f9b00031383627eef60721e1738
-龙华经典,p2p://fccsovh.pvbox.live:18912/5b14090b0001269c17d0ee93023202c3
-中视经典,p2p://fccsovh.pvbox.live:18912/5b140a14000a368c17d4fc0d0e2537ba
-公視3,p2p://fccsovh.pvbox.live:18912/5b14094a0002d1d117d1e518204a1cf0
-NHK 华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
-BLUE ANT 娱乐,p6p://0198.02686.cc:16871/5d1a69a60004767211bda6b5be685208.ts
-TVB星河,p6p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
-TVB翡翠,p6p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
-TVB明珠,p6p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
-TVB J2,p6p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
-好消息1,p6p://0198.02686.cc:16871/5d1a69b9000b139e11bdf29f39814479.ts
-动物星球,p6p://0198.02686.cc:16871/5d1a69da000a2acf11be734ba3f44eda.ts
-亚洲旅游,p6p://0198.02686.cc:16871/5d1a69b100010db711bdd0ce73edfa51.ts
-东森幼幼,p6p://0198.02686.cc:16871/5d416a580007131b7660d3322e8b0a5f.ts
-CN卡通,p6p://0198.02686.cc:16871/5d1a69b3000e2d1e11bddbfa8c491af8.ts
-迪斯尼,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ec17d479cd524c4642
-MOMO亲子,p6p://0198.02686.cc:16871/5d1a69aa0008eaab11bdb77907881e7a.ts
-SMART知识,p6p://0198.02686.cc:16871/5d1a69a9000d171211bdb4a3d225e7dd.ts
-美食星球,p6p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
-大爱Ⅱ,p6p://0198.02686.cc:16871/5d1a69b8000386b311bdecc8d9c8c96a.ts
-博斯高球Ⅱ,p6p://0198.02686.cc:16871/5d1a69a6000ef72511bda96629eb9aa4.ts
-FOX_SPORTS,p6p://0198.02686.cc:16871/5d1a69a30008cd8811bd9c1ad6dfa2ad.ts
-Z频道,p6p://0198.02686.cc:16871/5d1a69ac000bbbd711bdc002921c2017.ts 
-澳亚卫视,http://stream.mastvnet.com/MASTV/playlist.m3u8
+TVB J2,http://111.229.73.84/dl/xg235.php?id=12&xl=2
+无线财经,http://111.229.73.84/dl/xg235.php?id=10&xl=2
+无线新闻,http://111.229.73.84/dl/xg235.php?id=9&xl=2
+有线新闻,http://111.229.73.84/dl/xg235.php?id=31&xl=2
+TVB J2,http://103.140.229.13/zbtv/zxxg.php?id=12&xl=1
+TVB J2-1,http://www.aclive.live/dvr/2ee368c0/xmj3kp59/index.m3u8
+TVB 无线明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB 明珠,http://103.140.229.13/zbtv/zxxg.php?id=13&xl=1
+TVB 明珠2,http://103.140.229.13/zbtv/zxxg.php?id=13&xl=2
+TVB 星河,http://103.140.229.13/zbtv/zxxg.php?id=17&xl=1
+TVB 无线翡翠,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
+TVB 翡翠,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=1
+TVB 翡翠2,http://103.140.229.13/zbtv/zxxg.php?id=1&xl=2
+翡翠台1,http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
+翡翠台2,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB星河台,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB星河频道,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+TVB無線新聞台,http://45.93.217.106/jiuban/hg.php?id=1
+無綫新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+無綫財經資訊台,http://tv.sason.xyz/proxy/tvb.php?id=cj
+ViuTV,http://61.238.6.49:8000/bysid/99
+ViuTV6,http://61.238.6.49:8000/bysid/96
+明珠台,http://144.48.240.144:2019/SunTv.php?name=XGMingZhu
+明珠台1,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+有线综合娱乐,http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
+有线娱乐,http://103.140.229.13/zbtv/zxxg.php?id=34&xl=1
+有线娱乐2,http://103.140.229.13/zbtv/zxxg.php?id=34&xl=2
+HK開電視(需代理),http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+Now新闻,http://103.140.229.13/zbtv/zxxg.php?id=16&xl=1
+RTHK 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK 32-1,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+RTHK32-2,http://teslagram.com/live/channel_32.m3u8
+RTHK香港电台,https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2019/THKCCT2019M04701828.smil/index_1000000_av.m3u8
+凤凰中文,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文1,http://112.50.243.8/PLTV/88888888/224/3221225900/index.m3u8
+凤凰中文2,http://live.centerch.com/fhzw.m3u8
+凤凰中文3,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰卫视中文,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+凤凰电影,http://106.54.30.243/gz009/gz.php?id=fhdy
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/1.m3u8
+凤凰资讯1,http://112.50.243.8/PLTV/88888888/224/3221225901/index.m3u8
+凤凰资讯2,http://112.50.243.8//PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯3,http://106.54.30.243/gz009/gz.php?id=fhzx
+凤凰资讯4,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+凤凰香港台1,http://104.250.154.42:8080/ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+新唐人亞太台,https://live.ntdimg.com/aplive200/playlist.m3u8
+无线新闻,http://103.140.229.13/zbtv/zxxg.php?id=9&xl=1
+无线新闻1,http://61.238.6.49:8001/bysid/83
+无线新闻2,http://103.140.229.13/zbtv/zxxg.php?id=9&xl=2
+无线财经,http://103.140.229.13/zbtv/zxxg.php?id=10&xl=1
+无线财经2,http://103.140.229.13/zbtv/zxxg.php?id=10&xl=2
+无线财经3,http://45.93.217.106/jiuban/hg.php?id=2
+有线新闻,http://103.140.229.13/zbtv/zxxg.php?id=31&xl=1
+有线新闻3,http://45.93.217.106/jiuban/iptv222.php?id=31
+有线新闻4,http://liveima.utvlive.top/livehls/MOB-SCC/index.m3u8
+有线财经,https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
+有线财经资讯,http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
+澳亚卫视,http://106.54.30.243/gz009/gz.php?id=ayws
+澳亚卫视1,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=192&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+澳亚卫视2,http://144.48.240.144:2019/SunTv.php?name=MasTV
+澳視衛星 (備),http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视澳门,http://61.244.22.4/ch1/ch1.live/index.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳视资讯,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
+澳門1台,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+澳門2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
+澳门卫视1,http://144.48.240.144:2019/SunTv.php?name=MSTV
+澳门有线一台,http://202.175.127.77/live/show/ch1/index.m3u8
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經台1,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+耀才財經台2,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视1,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视2,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 NatlGeo,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
